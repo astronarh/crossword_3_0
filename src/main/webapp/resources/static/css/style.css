@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+input[type="text"]{
+	border: none;
+	background: transparent;
+	text-align: center;
+	font-size: 40px;
+	width: 40px;
+	height: 40px;
+	text-transform: uppercase;
+}
+textarea {
+	width: 50px;
+	height: 50px;
+	font-size: 10px;
+}
+#ourLabel {
+	font-size: 40px;
+	text-transform: uppercase;
+}
+#divOne {
+	display: block;
+    overflow: hidden;
+	width: 50px;
+	height: 50px;
+}
+#ourLabel {
+	display: block;
+}
